@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/oracle.png">
-<p><i>LIDAR Wearable Navigational System for the Visually Impaired.</i></p>
+<p><i>A Novel Implementation of LiDAR Mesh Classification and Image Classifiers In Assistive Technology for the Visually Impaired.</i></p>
 
 <br>
 
@@ -8,10 +8,14 @@
 253 million people worldwide including 20.6 million Americans are visually impaired. Research acknowledges that 42% of these visually impaired people have trouble navigating everyday objects in their environments.
 </p>
 
+<br>
+
 <h3>Goal</h3>
 <p>
 To alleviate the stressors experienced by the visually impaired when traversing unfamiliar environments by leveraging LiDAR mesh classifications and supplemental image classifiers to non-intrusively relay sufficient descriptions of the surroundings to the user.
 </p>
+
+<br>
 
 <h3>How it Works</h3>
 <ul>
@@ -19,3 +23,10 @@ To alleviate the stressors experienced by the visually impaired when traversing 
   <li>For objects that were more geometrically complex, we used Swift's CoreML library for image classifications.</li>
   <li>Finally, we used Swift's AVFoundation library to non-intrusively relay descriptions of surroundings to the user.</li>
 </ul>
+
+<br>
+
+<h3>Results</h3>
+<img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/graph.png">
+<img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/accuracies.png">
+<img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/distances.png">
