@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/oracle.png">
-<p>LIDAR Wearable Navigational System for the Visually Impaired.</p>
+<p><i>LIDAR Wearable Navigational System for the Visually Impaired.</i></p>
 
 <br>
 
