@@ -38,3 +38,11 @@ To alleviate the stressors experienced by the visually impaired when traversing 
   <li><a href="https://github.com/sam-shridhar1950f">Samarth Shridhar</a></li>
   <li><a href="https://github.com/JBPrew">Jack Prewitt</a></li>
 </ul>
+
+<br>
+
+<h3>Honors & Awards</h3>
+<ul>
+  <li>1st Place in the Georgia Junior Science & Humanities Symposium</li>
+  <li>1st Place in the GSMST Science & Engineering Fair</li>
+</ul>
