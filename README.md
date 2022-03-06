@@ -45,4 +45,5 @@ To alleviate the stressors experienced by the visually impaired when traversing 
 <ul>
   <li>1st Place in the Georgia Junior Science & Humanities Symposium</li>
   <li>1st Place in the GSMST Science & Engineering Fair</li>
+  <li>1st Place in the Gwinnett County Science and Engineering Fair</li>
 </ul>
